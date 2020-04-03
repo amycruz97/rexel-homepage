@@ -1,3 +1,124 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+body {
+    background-color: #fff;
+    /* overflow: hidden; */
+}
+
+.body {
+    /* background-color: red; */
+    background-image: url(./images/anaya-katlego-ia-h-fmp-x-vltw-unsplash@2x.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+
+
+/* Navbar */
+
+.nav {
+    background-color: transparent;
+}
+
+button.register {
+    background-color: #377ff7;
+    align-items: center;
+}
+
+@media (max-width:1020px) {
+    #toogleNav {
+        display: none;
+        background-color: rgba(0, 0, 0, .5);
+    }
+}
+
+@media (max-width:768px) {
+    .body {
+        background-image: url(./images/anaya-katlego-ia-h-fmp-x-vltw-unsplash.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        overflow: hidden;
+        height: 100vh;
+        /* width: 100vw; */
+    }
+    .bg-text {
+        /* background-color: tomato; */
+        width: 100vw;
+        height: 80vh;
+    }
+    .account {
+        width: 100vw;
+        flex-direction: column;
+        padding: 15px;
+    }
+    .have-your-money-with-you {
+        flex-direction: column;
+    }
+    .footer-s {
+        background-color: #377ff7;
+        width: 100%;
+        height: 500px;
+    }
+    .footer {
+        flex-direction: column;
+        justify-content: center;
+        width: 100vw;
+    }
+}
+
+@media(max-width: 500px) {
+    .one-account-icons {
+        flex-direction: column;
+        padding: 0 15px;
+    }
+}
+
+.bg-text {
+    width: 50vw;
+    height: 20vh;
+}
+
+.account {
+    background-color: #fff;
+    width: 70vw;
+}
+
+.pattern {
+    width: 100%;
+    height: 500px;
+    background-color: teal;
+}
+
+.pattern-img {
+    z-index: 1;
+}
+
+.account {
+    z-index: 3;
+}
+
+
+/* 
+.account-text,
+.account-img {
+    width: 50vw;
+    height: 50vh;
+} */
+
+.one-account {
+    background-color: #ecf3fe;
+    width: 100vw;
+}
+
+.one-account-icons {
+    /* flex-flow: row wrap; */
+    background-color: red;
+}
+
+.footer-section {
+    background-color: #377ff7;
+    width: 100%;
+}
