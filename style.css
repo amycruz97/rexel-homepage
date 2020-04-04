@@ -50,75 +50,45 @@ button.register {
         height: 80vh;
     }
     .account {
-        width: 100vw;
         flex-direction: column;
-        padding: 15px;
+        width: 90vw;
     }
     .have-your-money-with-you {
         flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 10px;
     }
-    .footer-s {
-        background-color: #377ff7;
-        width: 100%;
-        height: 500px;
+    .one-account-icons {
+        flex-direction: column;
+        padding: 0px 10px;
     }
     .footer {
         flex-direction: column;
-        justify-content: center;
-        width: 100vw;
+        align-items: center;
+        text-align: center;
+    }
+    .copyright {
+        text-align: center;
     }
 }
 
-@media(max-width: 500px) {
-    .one-account-icons {
-        flex-direction: column;
-        padding: 0 15px;
-    }
-}
+@media(max-width: 500px) {}
 
 .bg-text {
     width: 50vw;
     height: 20vh;
 }
 
-.account {
-    background-color: #fff;
-    width: 70vw;
-}
 
-.pattern {
-    width: 100%;
-    height: 500px;
-    background-color: teal;
-}
+/* .pattern-img {} */
 
-.pattern-img {
-    z-index: 1;
-}
-
-.account {
-    z-index: 3;
-}
-
-
-/* 
-.account-text,
-.account-img {
-    width: 50vw;
-    height: 50vh;
-} */
-
-.one-account {
-    background-color: #ecf3fe;
-    width: 100vw;
-}
+.account {}
 
 .one-account-icons {
-    /* flex-flow: row wrap; */
-    background-color: red;
+    background-color: #ecf3fe;
 }
 
 .footer-section {
     background-color: #377ff7;
-    width: 100%;
 }
