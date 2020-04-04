@@ -6,8 +6,7 @@ body {
 }
 
 .body {
-    /* background-color: red; */
-    background-image: url(./images/anaya-katlego-ia-h-fmp-x-vltw-unsplash@2x.png);
+    background-image: url(https://res.cloudinary.com/amycruz/image/upload/q_auto/v1586040799/anaya-katlego-ia-h-fmp-x-vltw-unsplash.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
