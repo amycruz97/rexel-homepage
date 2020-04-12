@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="117" height="294" viewBox="0 0 117 294">
+    <defs>
+        <path id="a" d="M0 0h121v274H0z"/>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path fill="#EAF9F4" d="M0 0h88v294H0z"/>
+        <g transform="translate(0 10)">
+            <mask id="b" fill="#fff">
+                <use xlink:href="#a"/>
+            </mask>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 4v5M3 6.5h5M23.5 4v5M21 6.5h5M41.5 4v5M39 6.5h5M59.5 4v5M57 6.5h5M77.5 4v5M75 6.5h5M95.5 4v5M93 6.5h5M113.5 4v5M111 6.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 22v5M3 24.5h5M23.5 22v5M21 24.5h5M41.5 22v5M39 24.5h5M59.5 22v5M57 24.5h5M77.5 22v5M75 24.5h5M95.5 22v5M93 24.5h5M113.5 22v5M111 24.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 40v5M3 42.5h5M23.5 40v5M21 42.5h5M41.5 40v5M39 42.5h5M59.5 40v5M57 42.5h5M77.5 40v5M75 42.5h5M95.5 40v5M93 42.5h5M113.5 40v5M111 42.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 58v5M3 60.5h5M23.5 58v5M21 60.5h5M41.5 58v5M39 60.5h5M59.5 58v5M57 60.5h5M77.5 58v5M75 60.5h5M95.5 58v5M93 60.5h5M113.5 58v5M111 60.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 76v5M3 78.5h5M23.5 76v5M21 78.5h5M41.5 76v5M39 78.5h5M59.5 76v5M57 78.5h5M77.5 76v5M75 78.5h5M95.5 76v5M93 78.5h5M113.5 76v5M111 78.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 94v5M3 96.5h5M23.5 94v5M21 96.5h5M41.5 94v5M39 96.5h5M59.5 94v5M57 96.5h5M77.5 94v5M75 96.5h5M95.5 94v5M93 96.5h5M113.5 94v5M111 96.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 112v5M3 114.5h5M23.5 112v5M21 114.5h5M41.5 112v5M39 114.5h5M59.5 112v5M57 114.5h5M77.5 112v5M75 114.5h5M95.5 112v5M93 114.5h5M113.5 112v5M111 114.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 130v5M3 132.5h5M23.5 130v5M21 132.5h5M41.5 130v5M39 132.5h5M59.5 130v5M57 132.5h5M77.5 130v5M75 132.5h5M95.5 130v5M93 132.5h5M113.5 130v5M111 132.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 148v5M3 150.5h5M23.5 148v5M21 150.5h5M41.5 148v5M39 150.5h5M59.5 148v5M57 150.5h5M77.5 148v5M75 150.5h5M95.5 148v5M93 150.5h5M113.5 148v5M111 150.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 166v5M3 168.5h5M23.5 166v5M21 168.5h5M41.5 166v5M39 168.5h5M59.5 166v5M57 168.5h5M77.5 166v5M75 168.5h5M95.5 166v5M93 168.5h5M113.5 166v5M111 168.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 184v5M3 186.5h5M23.5 184v5M21 186.5h5M41.5 184v5M39 186.5h5M59.5 184v5M57 186.5h5M77.5 184v5M75 186.5h5M95.5 184v5M93 186.5h5M113.5 184v5M111 186.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 202v5M3 204.5h5M23.5 202v5M21 204.5h5M41.5 202v5M39 204.5h5M59.5 202v5M57 204.5h5M77.5 202v5M75 204.5h5M95.5 202v5M93 204.5h5M113.5 202v5M111 204.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 220v5M3 222.5h5M23.5 220v5M21 222.5h5M41.5 220v5M39 222.5h5M59.5 220v5M57 222.5h5M77.5 220v5M75 222.5h5M95.5 220v5M93 222.5h5M113.5 220v5M111 222.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 238v5M3 240.5h5M23.5 238v5M21 240.5h5M41.5 238v5M39 240.5h5M59.5 238v5M57 240.5h5M77.5 238v5M75 240.5h5M95.5 238v5M93 240.5h5M113.5 238v5M111 240.5h5"/>
+            </g>
+            <g stroke="#1AC086" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" mask="url(#b)">
+                <path d="M5.5 256v5M3 258.5h5M23.5 256v5M21 258.5h5M41.5 256v5M39 258.5h5M59.5 256v5M57 258.5h5M77.5 256v5M75 258.5h5M95.5 256v5M93 258.5h5M113.5 256v5M111 258.5h5"/>
+            </g>
+        </g>
+    </g>
+</svg>
